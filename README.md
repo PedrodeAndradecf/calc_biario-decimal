@@ -1,5 +1,7 @@
 # calc_biario-decimal
-Calculadora que transforma numeros binarios em decimais
+Calculadora que transforma numeros binarios em decimais-------
+
+
 def binario_para_decimal(binario):
     decimal = 0
     binario_reverso = str(binario)[::-1]
